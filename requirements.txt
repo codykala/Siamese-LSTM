@@ -1,0 +1,10 @@
+jupyter
+nltk
+pandas
+tqdm
+torch
+torchvision
+numpy
+matplotlib
+sklearn
+gensim
